@@ -7,14 +7,17 @@ body{
 .custom-text-color{
     color:rgb(91, 201, 91);
 }
+/*Nav item styling */
 .moon-nav-item{
     color: darkcyan;
     font-size: 20px;
     margin-left: auto;
 }
+
 .moon-btn{
     background-image: linear-gradient(lightgreen,mediumseagreen);
 }
+/*Card styling*/
 .moon-row-box{
     border-radius: 10px;
     box-shadow: 3px 3px 10px gray;
@@ -33,6 +36,8 @@ body{
 .moon-footer .moon-btn{
     margin-left: auto;
 }
+/*Form part styling */
+
 .contact-form{
     width: 80%;
     background-color:rgb(235, 228, 228);
