@@ -21,7 +21,17 @@ body{
 .moon-row-box{
     border-radius: 10px;
     box-shadow: 3px 3px 10px gray;
-} 
+
+}
+@media only screen and (max-width:768px) {
+       h3, p{
+           text-align: center;
+       }
+       img{
+           display: block;
+           margin: 0 auto;
+       }
+}
 .moon-card{
     border-radius: 10px;
     box-shadow: 5px 5px 10px gray;
