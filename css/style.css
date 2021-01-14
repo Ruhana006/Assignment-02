@@ -1,0 +1,65 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.custom-text-color{
+    color:rgb(91, 201, 91);
+}
+.moon-nav-item{
+    color: darkcyan;
+    font-size: 20px;
+    margin-left: auto;
+}
+.moon-btn{
+    background-image: linear-gradient(lightgreen,mediumseagreen);
+}
+.moon-row-box{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+} 
+.moon-card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+.moon-bag-title{
+    color:darkcyan;  
+}
+.moon-footer{
+    border: 0;
+    background-color: white;   
+}
+.moon-footer .moon-btn{
+    margin-left: auto;
+}
+.contact-form{
+   width: 80%;
+    background-color:rgb(235, 228, 228);
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    padding: 40px 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+}
+.form-text{
+    display: block;
+    text-align: left;
+    border: 1px solid gray;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.form-text label{
+    display: block;
+    text-align: left;
+    font-size: 15px;
+    color:darkcyan ;
+
+}
+.form-text input, .form-text textarea{
+    width: 70%;
+    border: none;
+    background: none;
+}
+   
+
+    
