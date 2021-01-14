@@ -1,6 +1,9 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.logo-pic img{
+    width: 200px;
+}
 .custom-text-color{
     color:rgb(91, 201, 91);
 }
